@@ -1,0 +1,6 @@
+﻿{
+  "Key" : "YOUR_OPENAI_TOKEN",
+  "Languages" : ["fr", "spa", "PUT_OTHER_LANGUAGES_IN_SUCH_FORMAT"],
+  "Folder" : "YOUR_LOCALIZATION_FOLDER",
+  "FilePrefix" : "FILE_PREFIX"
+}
